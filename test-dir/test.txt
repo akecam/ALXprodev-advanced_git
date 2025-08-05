@@ -1,0 +1,7 @@
+This is a test file to demonstrate the pre-commit hook functionality.
+
+When we try to commit this directory without a README file,
+the pre-commit hook should prevent the commit and show an error message.
+
+This helps ensure that all directories in the repository
+maintain proper documentation standards.
